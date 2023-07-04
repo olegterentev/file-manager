@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\olegt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\olegt\\.nuget\\packages"
+    ]
+  }
+}
